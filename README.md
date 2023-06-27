@@ -32,7 +32,9 @@ try {
 
 System.out.println(unitedFederation);
 
-//
+// End of example
+
+
 ## License
 This project is licensed under the MIT License.
 
