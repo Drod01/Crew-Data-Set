@@ -31,8 +31,42 @@ try {
 }
 
 System.out.println(unitedFederation);
-    }    
-}
 
+//
+## License
+This project is licensed under the MIT License.
+
+## Dependencies
+The Crew-Data-Set project has the following dependencies:
+
+-Java Development Kit (JDK) version X.X or later
+
+## Contributions
+
+Contributions to this project are welcome! If you would like to contribute, please follow these steps:
+
+Fork the repository on GitHub.
+
+Create a new branch for your feature or bug fix.
+
+Make your changes in the branch and commit them.
+
+Push your branch to your forked repository.
+
+Submit a pull request to the original repository.
+
+Please ensure that your contributions adhere to the following guidelines:
+
+Maintain a clear and concise coding style consistent with the existing codebase.
+
+Provide detailed information about the changes or additions made.
+
+Test your changes thoroughly to ensure they do not introduce any issues.
+
+Follow the existing naming conventions and code formatting.
+
+Be respectful and considerate towards other contributors.
+
+Your contributions can include bug fixes, feature enhancements, documentation improvements, or any other valuable additions to the project.
 
 
